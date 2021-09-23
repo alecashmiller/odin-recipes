@@ -1,0 +1,1 @@
+The goal of this project is to practice HTML by building a basic recipe website
